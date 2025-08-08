@@ -27,8 +27,8 @@ const Footer = () => {
           <li>Privacy</li>
           <li>Legal Notices</li>
           <li>Cookie Preferences</li>
-          <li>Corporate Information</li>
           <li>Contact Us</li>
+          <a href="https://aizazkhan.netlify.app/" target='_'><button>Contact Developer</button></a>
         </ul>
         <p className='copyright-text'> © Netflix, Inc by Muhammad Aizaz Khan</p>
     </div>
